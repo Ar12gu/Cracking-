@@ -75,3 +75,4 @@ $M_u = M_{u,lim} + M_{u2}$
 where $M_{u2} = A_{sc}(f_{sc} - 0.446f_{ck})(d_{eff} - d')$
 
 $M_{u,lim}$ is the same as calculated above. The additional moment capacity, $M_{u2}$, depends on the area of steel in the compression zone, which is not given.
+#thank you
